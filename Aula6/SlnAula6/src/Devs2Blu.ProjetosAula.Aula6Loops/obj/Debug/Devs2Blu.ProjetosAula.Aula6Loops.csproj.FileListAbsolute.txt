@@ -1,0 +1,8 @@
+C:\Users\cleyton\Desktop\+Devs2Blu\Aula6\SlnAula6\src\Devs2Blu.ProjetosAula.Aula6Loops\bin\Debug\Devs2Blu.ProjetosAula.Aula6Loops.exe.config
+C:\Users\cleyton\Desktop\+Devs2Blu\Aula6\SlnAula6\src\Devs2Blu.ProjetosAula.Aula6Loops\bin\Debug\Devs2Blu.ProjetosAula.Aula6Loops.exe
+C:\Users\cleyton\Desktop\+Devs2Blu\Aula6\SlnAula6\src\Devs2Blu.ProjetosAula.Aula6Loops\bin\Debug\Devs2Blu.ProjetosAula.Aula6Loops.pdb
+C:\Users\cleyton\Desktop\+Devs2Blu\Aula6\SlnAula6\src\Devs2Blu.ProjetosAula.Aula6Loops\obj\Debug\Devs2Blu.ProjetosAula.Aula6Loops.csproj.AssemblyReference.cache
+C:\Users\cleyton\Desktop\+Devs2Blu\Aula6\SlnAula6\src\Devs2Blu.ProjetosAula.Aula6Loops\obj\Debug\Devs2Blu.ProjetosAula.Aula6Loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\cleyton\Desktop\+Devs2Blu\Aula6\SlnAula6\src\Devs2Blu.ProjetosAula.Aula6Loops\obj\Debug\Devs2Blu.ProjetosAula.Aula6Loops.csproj.CoreCompileInputs.cache
+C:\Users\cleyton\Desktop\+Devs2Blu\Aula6\SlnAula6\src\Devs2Blu.ProjetosAula.Aula6Loops\obj\Debug\Devs2Blu.ProjetosAula.Aula6Loops.exe
+C:\Users\cleyton\Desktop\+Devs2Blu\Aula6\SlnAula6\src\Devs2Blu.ProjetosAula.Aula6Loops\obj\Debug\Devs2Blu.ProjetosAula.Aula6Loops.pdb

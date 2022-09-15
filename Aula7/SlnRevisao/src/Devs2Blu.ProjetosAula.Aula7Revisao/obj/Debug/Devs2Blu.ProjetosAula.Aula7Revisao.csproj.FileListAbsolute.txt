@@ -1,0 +1,8 @@
+C:\Users\cleyton\Desktop\+Devs2Blu\Aula7\SlnRevisao\src\Devs2Blu.ProjetosAula.Aula7Revisao\bin\Debug\Devs2Blu.ProjetosAula.Aula7Revisao.exe.config
+C:\Users\cleyton\Desktop\+Devs2Blu\Aula7\SlnRevisao\src\Devs2Blu.ProjetosAula.Aula7Revisao\bin\Debug\Devs2Blu.ProjetosAula.Aula7Revisao.exe
+C:\Users\cleyton\Desktop\+Devs2Blu\Aula7\SlnRevisao\src\Devs2Blu.ProjetosAula.Aula7Revisao\bin\Debug\Devs2Blu.ProjetosAula.Aula7Revisao.pdb
+C:\Users\cleyton\Desktop\+Devs2Blu\Aula7\SlnRevisao\src\Devs2Blu.ProjetosAula.Aula7Revisao\obj\Debug\Devs2Blu.ProjetosAula.Aula7Revisao.csproj.AssemblyReference.cache
+C:\Users\cleyton\Desktop\+Devs2Blu\Aula7\SlnRevisao\src\Devs2Blu.ProjetosAula.Aula7Revisao\obj\Debug\Devs2Blu.ProjetosAula.Aula7Revisao.csproj.SuggestedBindingRedirects.cache
+C:\Users\cleyton\Desktop\+Devs2Blu\Aula7\SlnRevisao\src\Devs2Blu.ProjetosAula.Aula7Revisao\obj\Debug\Devs2Blu.ProjetosAula.Aula7Revisao.csproj.CoreCompileInputs.cache
+C:\Users\cleyton\Desktop\+Devs2Blu\Aula7\SlnRevisao\src\Devs2Blu.ProjetosAula.Aula7Revisao\obj\Debug\Devs2Blu.ProjetosAula.Aula7Revisao.exe
+C:\Users\cleyton\Desktop\+Devs2Blu\Aula7\SlnRevisao\src\Devs2Blu.ProjetosAula.Aula7Revisao\obj\Debug\Devs2Blu.ProjetosAula.Aula7Revisao.pdb

@@ -1,0 +1,8 @@
+C:\Users\cleyton\Desktop\+Devs2Blu\NomeCidade\NomeCidade\bin\Debug\NomeCidade.exe.config
+C:\Users\cleyton\Desktop\+Devs2Blu\NomeCidade\NomeCidade\bin\Debug\NomeCidade.exe
+C:\Users\cleyton\Desktop\+Devs2Blu\NomeCidade\NomeCidade\bin\Debug\NomeCidade.pdb
+C:\Users\cleyton\Desktop\+Devs2Blu\NomeCidade\NomeCidade\obj\Debug\NomeCidade.csproj.AssemblyReference.cache
+C:\Users\cleyton\Desktop\+Devs2Blu\NomeCidade\NomeCidade\obj\Debug\NomeCidade.csproj.SuggestedBindingRedirects.cache
+C:\Users\cleyton\Desktop\+Devs2Blu\NomeCidade\NomeCidade\obj\Debug\NomeCidade.csproj.CoreCompileInputs.cache
+C:\Users\cleyton\Desktop\+Devs2Blu\NomeCidade\NomeCidade\obj\Debug\NomeCidade.exe
+C:\Users\cleyton\Desktop\+Devs2Blu\NomeCidade\NomeCidade\obj\Debug\NomeCidade.pdb
